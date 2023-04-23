@@ -36,7 +36,7 @@
 .label-task {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .add-input-container {
@@ -138,7 +138,7 @@
 }
 
 .input-text {
-  width: 226px
+  width: 226px;
 }
 
 .image-delete {
@@ -154,17 +154,17 @@
 /* Completed */
 .task-label-completed {
   text-decoration: line-through;
-  color: #888
+  color: #888;
 }
 
 /* Edit Task */
 .input-text {
-  display: none
+  display: none;
 }
 
 .task-list-edit .input-text {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .task-list-edit .label-task {
